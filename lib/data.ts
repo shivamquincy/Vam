@@ -70,7 +70,7 @@ export const projectsData = [
       "A comprehensive MERN stack application featuring JWT authentication, React Quill for rich text editing, and advanced state management techniques",
     tags: ["React", "Node.js", "MongoDB", "Express", "RestApi"],
     imageUrl: vamGram,
-  },,
+  },
   {
     title: "CodeVam",
     description:
